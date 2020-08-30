@@ -26,6 +26,7 @@ class _FirstPageState extends State<FirstPage> {
     'hours work',
     'icon value',
     'graph'
+    'test',
   ];
   List<charts.Series<Tasks, String>> _seriesPieData;
   _generateData() {
